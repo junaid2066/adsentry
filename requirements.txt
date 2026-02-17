@@ -1,5 +1,5 @@
 python-3.11
-torch==2.2.2
+torch
 streamlit
 opencv-python-headless
 
