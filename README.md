@@ -1,4 +1,4 @@
-##🎥 AdSentry: Smart Video Advertisement Detection & Counting System
+## 🎥 AdSentry: Smart Video Advertisement Detection & Counting System
 AdSentry is an AI-powered video analytics system designed to automatically detect, count, and analyze repeated advertisement segments within video content.
 It leverages Vision Transformers (ViT) and cosine similarity-based matching to identify advertisement occurrences with high accuracy.
 
@@ -6,7 +6,7 @@ This system is particularly useful for media monitoring, marketing analytics, an
 
 ----
 
-##🧩 Project Structure
+## 🧩 Project Structure
 AdSentry/
 │
 ├── app.py                      # Main Streamlit application
@@ -27,7 +27,7 @@ AdSentry/
 
 ----
 
-##📊 Output Features
+## 📊 Output Features
 🎯 Ad Match Detection
 🕒 Total Advertisement Duration
 📍 Timestamp Localization
@@ -35,7 +35,7 @@ AdSentry/
 📊 Interactive Analytics UI
 
 --- 
-#🧠 Key Features
+## 🧠 Key Features
 ✅ Vision Transformer (ViT) based feature extraction
 ✅ High-accuracy cosine similarity matching
 ✅ Duplicate detection filtering
@@ -46,7 +46,7 @@ AdSentry/
 
 ---
 
-##💡 Use Cases
+## 💡 Use Cases
 📺 Broadcast media monitoring
 📊 Marketing analytics & campaign tracking
 ⚖️ Advertisement compliance auditing
@@ -55,7 +55,7 @@ AdSentry/
 
 ---
 
-##🧾 Technical Stack
+## 🧾 Technical Stack
 Python
 Streamlit
 PyTorch
