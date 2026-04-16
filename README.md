@@ -31,6 +31,7 @@ AdSentry/
 
 ## 📊 Output Features
 🎯 Ad Match Detection
+
 🕒 Total Advertisement Duration
 
 📍 Timestamp Localization
@@ -42,41 +43,62 @@ AdSentry/
 --- 
 ## 🧠 Key Features
 ✅ Vision Transformer (ViT) based feature extraction
+
 ✅ High-accuracy cosine similarity matching
+
 ✅ Duplicate detection filtering
+
 ✅ Customizable thresholds
+
 ✅ Streamlit-based interactive UI
+
 ✅ Real-time and offline video support
+
 ✅ Deployable on Hugging Face Spaces
 
 ---
 
 ## 💡 Use Cases
 📺 Broadcast media monitoring
+
 📊 Marketing analytics & campaign tracking
+
 ⚖️ Advertisement compliance auditing
+
 📡 OTT platform analysis
+
 📰 News channel ad frequency analysis
 
 ---
 
 ## 🧾 Technical Stack
 Python
+
 Streamlit
+
 PyTorch
+
 Hugging Face Transformers
+
 Vision Transformer (ViT)
+
 OpenCV
+
 Decord
+
 Scikit-learn
 
 ---
 
 ## 📈 Future Improvements
 🔄 Real-time live stream ad detection
+
 📊 Timeline visualization of ad occurrences
+
 ⚡ Faster inference optimization
+
 🌐 API-based architecture (FastAPI backend)
+
 📱 Dashboard frontend (React + Vercel)
 
 ---
