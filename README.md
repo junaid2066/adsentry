@@ -30,13 +30,11 @@ AdSentry/
 ----
 
 ## 📊 Output Features
-'''bash
 🎯 Ad Match Detection
 🕒 Total Advertisement Duration
 📍 Timestamp Localization
 📄 CSV Export
 📊 Interactive Analytics UI
-'''
 
 --- 
 ## 🧠 Key Features
