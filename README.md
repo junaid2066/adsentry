@@ -31,7 +31,6 @@ AdSentry/
 
 ## 📊 Output Features
 🎯 Ad Match Detection
-
 🕒 Total Advertisement Duration
 
 📍 Timestamp Localization
