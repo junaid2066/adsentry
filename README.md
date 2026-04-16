@@ -9,7 +9,9 @@ This system is particularly useful for media monitoring, marketing analytics, an
 ## 🧩 Project Structure
 AdSentry/
 │
+
 ├── app.py                      # Main Streamlit application
+
 ├── requirements.txt            # Dependencies
 ├── Procfile                   # Deployment config (Heroku/HF)
 ├── setup.sh                   # Streamlit config for deployment
