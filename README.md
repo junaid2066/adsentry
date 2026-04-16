@@ -7,11 +7,10 @@ This system is particularly useful for media monitoring, marketing analytics, an
 ----
 
 ## 🧩 Project Structure
+```bash
 AdSentry/
 │
-
 ├── app.py                      # Main Streamlit application
-
 ├── requirements.txt            # Dependencies
 ├── Procfile                   # Deployment config (Heroku/HF)
 ├── setup.sh                   # Streamlit config for deployment
@@ -26,15 +25,18 @@ AdSentry/
 │
 └── README.md
 ⚙️ Installation
+'''
 
 ----
 
 ## 📊 Output Features
+'''bash
 🎯 Ad Match Detection
 🕒 Total Advertisement Duration
 📍 Timestamp Localization
 📄 CSV Export
 📊 Interactive Analytics UI
+'''
 
 --- 
 ## 🧠 Key Features
