@@ -25,7 +25,7 @@ AdSentry/
 │
 └── README.md
 ⚙️ Installation
-'''
+```
 
 ----
 
